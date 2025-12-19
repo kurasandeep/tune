@@ -27,6 +27,7 @@ CITY_MAP = {
     "London": (51.5, -0.12, 25, "London, UK"),
     "Tokyo": (35.68, 139.75, 40, "Tokyo, Japan"),
     "Miami": (25.76, -80.19, 2, "Miami, USA"),
+    "Delhi": (28.61, 77.21, 216, "Delhi"),
     "Berlin": (52.52, 13.4, 34, "Berlin, Germany"),
 }
 DEFAULT_CITY = "New York"
