@@ -29,7 +29,7 @@ CITY_MAP = {
     "Miami": (25.76, -80.19, 2, "Miami, USA"),
     "Delhi": (28.61, 77.21, 216, "Delhi, India"),
     "Berlin": (52.52, 13.4, 34, "Berlin, Germany"),
-    "Paris": (48.86, 2.35, 35, "Paris, France"),
+    "Paris": (48.86, 2.35, 35, "Paris, France")
 }
 DEFAULT_CITY = "New York"
 DAYS_TO_ANALYZE = 365
